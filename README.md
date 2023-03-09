@@ -1,2 +1,17 @@
-# m08-industrial-big-data-analysis-and-mining
-Learn about the M08 "Industrial Big Data Analysis and Mining"
+# M08 "Industrial Big Data Analysis and Mining"
+
+*description*
+
+
+
+## Prerequisites
+
+- *English level*
+- *technical*
+- *previous courses*
+
+
+
+## Upcoming Sessions
+
+*dates*
