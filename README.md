@@ -24,7 +24,8 @@
 
 **December 2023 (5 days)** @ Renault
 <!--![Renault](https://img.shields.io/static/v1?label=venue&labelColor=white&message=Renault&color=black)-->
-- 11-15.12.2023
+- 11-14.12.2023 (onsite)
+- 19.12.2023 (remote)
 - each day from 9am to 5pm (CET time)
 
 
