@@ -55,38 +55,38 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## OBJECTIFS DE LA FORMATION
-This module delivers the concepts, theories and frequently used tools in machine learning and big data and provides a working understanding of their application in practice.
+Ce module présente les concepts, les théories et les outils fréquemment utilisés dans le domaine de l’apprentissage automatique et du big data et fournit une compréhension pratique de leur application.
 
-Upon completion of this module, the participant will be able to:
-- Take the initiative in reviewing solutions for big data processing and mining.
-- Analyse available data and produce results, or guide toward appropriate applications of Big Data.
-- Implement and advocate the use of systematic methodology for Big Data analysis and mining.
-- Produce and evaluate solutions using machine learning algorithms.
-- Interpret the results and communicate the impact to both technical and non-technical audience.
-- Use of practical software tools, with a focus on workflow design and experimentation.
+A l’issue de ce module, le participant sera capable de :
+- Prendre des initiatives dans l’examen des solutions d’exploration et de traitement statistique des Big Data
+- Analyser les données disponibles et produire des résultats, ou guider vers des applications appropriées du Big Data
+- Mettre en œuvre, préconiser et justifier l’utilisation d’une méthodologie systématique pour l’analyse et l’exploitation des Big Data
+- Produire et évaluer des solutions en utilisant des algorithmes d’apprentissage automatique
+- Interpréter les résultats et communiquer leur impact à un public technique et non technique
+- Utiliser des outils logiciels couramment utilisés, en les appliquant dans le processus de conception et d’expérimentation
 
 
 
 ## PROGRAMME
-This course introduces participants to the theory, methodologies, tools, and techniques necessary to develop skills for industrial big data processing.
+Ce cours présente aux participants la théorie, les méthodologies, les outils et les techniques nécessaires au développement de compétences pour le traitement des big data dans l’industrie.
 
-The module addresses data analysis (data description, quality, cleaning, and transformation), pattern exploration and data mining applications. Three types of computational solutions are studied: classification, clustering, association mining, as well as presenting data in a useful format (data visualisation).
+Le module aborde l’analyse des données (description, qualité, nettoyage et transformation des données), l’exploration de patterns et les applications de data mining. Trois types de solutions informatiques sont étudiés : classification, clustering, association mining, ainsi que la présentation des données dans un format utile (data visualisation).
 
-### Fundamentals
-- Statistical evaluation of data quality;
-- Data wrangling (data cleaning, data selection, data transformation).
+### Notions fondamentales
+- Évaluation statistique de la qualité des données
+- Traitement des données (nettoyage des données, sélection des données, transformation des données)
 
-### Big Data Analysis
-- Investigation of knowledge discovery processes,
-- Theoretical and practical applications of machine learning techniques for Big Data mining (pattern-exploration, associations, and clustering).
+### Analyse des Big Data
+- Étude des processus de découverte de connaissances
+- Applications théoriques et pratiques des techniques d’apprentissage automatique pour l’exploration des Big Data (exploration de motifs, associations et clustering)
 
-### Classification with Machine Learning
-- Exploration of algorithms for regression, classification (binary and multiclass), advanced classifiers (kNN, ANNs, ensembles) and performance evaluation criteria;
-- Introduction and application of deep learning algorithms.
+### Classification avec l’apprentissage automatique
+- Exploration des algorithmes de régression, de classification (binaire et multiclasse), des classificateurs avancés (kNN, ANNs, ensembles) et des critères d’évaluation des performances
+- Introduction et application des algorithmes d’apprentissage profond
 
-### Mini Project
-- Strengthening the delivered concepts through application to a relevant individual project
-- The topic is underpinned by an industry-inspired Enginee-
+### Mini-Projet
+- Renforcement des concepts étudiés en les appliquant à un projet individuel pertinent
+- Le sujet est étayé par un défi d’ingénierie du Big Data issu de l’industrie
 
 
 
